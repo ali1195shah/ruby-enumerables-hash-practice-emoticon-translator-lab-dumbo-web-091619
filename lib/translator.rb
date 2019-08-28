@@ -9,6 +9,8 @@ def load_library(hash)
   emoticons.each do |meaning, value|
     eng = value[0]
     jp = value[1]
+    
+    emoticons 
   end
   end
 end
