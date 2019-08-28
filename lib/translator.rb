@@ -13,7 +13,7 @@ def load_library(hash)
     emoticons["get_meaning"][jp] = meaning
     emoticons["get_emoticon"][eng] = jp
   end
-  end
+  return 
 end
 
 def get_japanese_emoticon
