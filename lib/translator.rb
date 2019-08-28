@@ -8,7 +8,7 @@ def load_library(hash)
   
   emoticons = {"get_meaning" => {},
                "get_emoticon" => {}}
-  emoticons.each do |meaning, value|
+  emoticons_file.each do |meaning, value|
     eng = value[0]
     jp = value[1]
     
