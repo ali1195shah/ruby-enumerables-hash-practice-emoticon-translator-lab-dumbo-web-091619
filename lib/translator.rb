@@ -10,6 +10,7 @@ def load_library(hash)
     eng = value[0]
     jp = value[1]
   end
+  end
 end
 
 def get_japanese_emoticon
