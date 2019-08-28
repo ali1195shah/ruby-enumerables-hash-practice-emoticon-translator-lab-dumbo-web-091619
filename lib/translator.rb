@@ -10,7 +10,7 @@ def load_library(hash)
     eng = value[0]
     jp = value[1]
     
-    emoticons["get_meaning"][]
+    emoticons["get_meaning"][jp] 
   end
   end
 end
